@@ -1,0 +1,8 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#000000"/>
+  <g fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">
+    <text x="76" y="165" font-size="140" font-weight="700">K</text>
+    <text x="126" y="165" font-size="140" font-weight="700">G</text>
+  </g>
+  <path d="M132 32 C128 110 128 146 132 224" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+</svg>
